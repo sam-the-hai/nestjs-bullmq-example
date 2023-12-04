@@ -1,3 +1,6 @@
+# General
+Example how to use nestjs bullmq + scheduler to run distributed cron job on Nestjs
+
 ## Installation
 
 ```bash
