@@ -1,4 +1,3 @@
-// gkc_hash_code : 01GV08E07716MKFVFKX31BQC9G
 import { CACHE_MANAGER } from '@nestjs/cache-manager';
 import { Inject, Injectable } from '@nestjs/common';
 import { Cache } from 'cache-manager';
